@@ -4,6 +4,8 @@ By: Rahul Kharade
 16 DEC 2023
 '''
 
+
+
 #Declare file name
 my_filename = "logfile.txt"
 

@@ -13,10 +13,10 @@ def validate_integer():
             user_input = int(input("Enter an integer value: "))
         except:
             # Bad value, 
-            print("Error")
+            print("Error...Please enter an integer value only")
             continue
         else:
-            print("Valid input")
+            print("Valid input...Thank You!!!!!!!!!!")
             # Good value, exit the loop
             break
         finally:

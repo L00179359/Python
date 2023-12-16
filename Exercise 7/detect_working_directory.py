@@ -1,7 +1,7 @@
 '''
 OS utilities
 By: Rahul Kharade
-16 DEC 2023
+15 DEC 2023
 '''
 
 import os, platform

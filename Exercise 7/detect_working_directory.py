@@ -25,9 +25,9 @@ if (__name__ == '__main__'):
     my_os = my_os.lower()
     
     # Parse the response, only check for Windows and Linux
-    if my_os == "windows":
+    if my_os == "Windows":
         print("Your system is Windows")
-    elif my_os == "linux":
+    elif my_os == "Linux":
         print("Your system is Linux")
     else:
         print(f"Cannot continue, unidentified system = {my_os}")

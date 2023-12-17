@@ -5,6 +5,7 @@ Use “f” strings or formatted strings to merge texts
 20OCT2023
 '''
 
+#calculae marsk
 #total_subject=10
 #max_marks_per_subject=100
 total_marks=890

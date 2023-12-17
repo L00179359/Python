@@ -5,7 +5,9 @@ Calculate the expenses budget for semester
 '''
 
 #Calculare budget for student for first semester
-Total_budget_for_first_semester=3000 #Considering 4 months semester
+
+#Considering 4 months semester
+Total_budget_for_first_semester=3000 
 print('Total_budget_for_first_semester=',Total_budget_for_first_semester)
 
 Room_rent_for_first_semester=1000

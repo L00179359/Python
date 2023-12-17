@@ -4,7 +4,6 @@ By: Rahul Kharade
 14 DEC 2023
 '''
 
-
 import os, platform
 
 # Define global variables

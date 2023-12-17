@@ -4,9 +4,6 @@ By: Rahul Kharade
 16 DEC 2023
 '''
 
-
-
-
 def create_directory(new_directory_name: str) ->bool:
     # Use try/except to catch errors
     try:

@@ -4,7 +4,6 @@ By: Rahul Kharade
 15 DEC 2023
 '''
 
-
 from re import A
 
 def validate_integer():

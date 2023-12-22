@@ -5,6 +5,7 @@ By: Rahul Kharade
 21 DEC 2023
 '''
 
+#This program is used to create new folder "Template" in current directory
 
 import os
 
